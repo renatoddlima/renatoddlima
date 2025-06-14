@@ -1,16 +1,14 @@
-## Hi there 👋
+# Renato Dranka Derujo Lima
 
-<!--
-**renatoddlima/renatoddlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cursando engenharia mecatrônica na UTFPR, fiz 2 messês de desenvolvimento de software no SENAI 
 
-Here are some ideas to get you started:
+# Escolaridade
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ensino médio completo e cursando ensino superior
+
+# Contato
+
+Numero : 41999176606
+emails:renatolima@alunos.utfpr.edu.br   e   renatoderujolima@gmail.com
+discord: kakashi2858x
+instagram: renato dranka derujo lima
